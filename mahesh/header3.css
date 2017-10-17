@@ -1,0 +1,38 @@
+#main
+{
+	border:1px solid black;
+	width:1000px;
+	height:70px;
+}
+img
+{
+	margin-left:20px;
+	margin-top:10px;
+}
+ul.menu 
+{
+	margin-top:-40px;
+	margin-left:150px;
+}
+ul.menu li
+{
+	list-style:none;
+	display:inline;
+	background-color:rgb(31,240,226);
+	border:1px solid black;
+	padding:10px 20px;
+	border-radius:5px;
+	color:black;
+	margin-right:30px;
+}
+ul.menu li a
+{
+	font-size:20px;
+	text-decoration:none;
+	color:black;
+
+}
+ul.menu li:first-child
+{
+		background-color:red;
+}

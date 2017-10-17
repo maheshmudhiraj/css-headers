@@ -1,0 +1,21 @@
+#main
+{
+	background-color:lightblue;
+	height:100px;
+	width:500px;
+}
+ul.menu
+{
+	padding-top:30px;
+}
+ul.menu li
+{
+	list-style:none;
+	display:inline;
+}
+ul.menu li a
+{
+	font-size:30px;
+	margin-right:50px;
+	padding-left:20px;
+}
